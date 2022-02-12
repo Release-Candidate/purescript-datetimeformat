@@ -1,0 +1,10 @@
+node_modules/
+.spago/
+.cache/
+output/
+packages.dhall/
+/.psc-ide-port
+dist/
+bla.txt
+generated-docs/
+Pipfile.lock
