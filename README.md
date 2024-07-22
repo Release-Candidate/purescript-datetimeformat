@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repo has been moved to [Codeberg: codeberg.org/Release-Candidate/purescript-datetimeformat](https://codeberg.org/Release-Candidate/purescript-datetimeformat)
+
 # purescript-datetimeformat
 
 Purescript library to handle the formatting of dates and times.
